@@ -1,1 +1,1 @@
-# Easy-CASP-Editor---Improved-v2.0-
+# Easy CASP Editor - Improved v2.0
